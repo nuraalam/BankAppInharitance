@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\bin\Debug\BankAppinheritance.exe.config
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\bin\Debug\BankAppinheritance.exe
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\bin\Debug\BankAppinheritance.pdb
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.exe
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.pdb
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.BankAppUI.resources
