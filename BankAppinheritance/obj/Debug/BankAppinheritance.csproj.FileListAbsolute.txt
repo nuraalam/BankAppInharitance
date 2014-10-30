@@ -6,3 +6,6 @@ C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppin
 C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.exe
 C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.pdb
 C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.BankAppUI.resources
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\bin\Debug\nunit.framework.dll
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\bin\Debug\nunit.framework.xml
+C:\Users\Hafiz\Desktop\BankAppinheritance\BankAppinheritance\obj\Debug\BankAppinheritance.csprojResolveAssemblyReference.cache

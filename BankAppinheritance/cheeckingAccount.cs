@@ -1,4 +1,7 @@
-﻿namespace BankAppinheritance
+﻿using System.Collections;
+using System.Collections.Generic;
+
+namespace BankAppinheritance
 {
     internal class CheeckingAccount:Account
     {
@@ -15,6 +18,7 @@
         }
         public override bool Withdraw(double amount)
         {
+           
             if (Balance - amount >= 0)
             {
                 NoOfTransaction++;

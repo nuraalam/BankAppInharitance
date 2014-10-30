@@ -90,6 +90,9 @@ namespace BankAppinheritance
         }
         public string Deposite(double amount, string text)
         {
+           
+            if (amount < 0)
+                return "Deposite amount can not be negative";
             if (text == "Saving Account")
             {
 
